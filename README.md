@@ -1,5 +1,7 @@
 # etl-project
 
+![](https://github.com/Lidiavf1912/etl-project/blob/main/imagenes/cabecera_readme.avif)
+
 ## Indice:
 1.[Contexto](#Contexto)\
 2.[Proceso de extracción y transformación](#Proceso_de_extracción_y_transformación)\
