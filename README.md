@@ -42,7 +42,7 @@ Para analizar la tienda de LG Outlet y sus productos de televisión OLED he extr
 
 - id para las empresas retailers
 
-Para acceder al documento pulse [aquí]
+Para acceder al documento pulse [aquí](https://github.com/Lidiavf1912/etl-project/blob/main/python/lg%20outlet.ipynb)
 
 ### 2.2 Mi Electro
 
@@ -56,23 +56,23 @@ De la página web de Mi Electro he extraído los siguiente datos de los producto
 
 - descuento aplicado
 
-Para acceder al documento pulse [aquí]
+Para acceder al documento pulse [aquí](https://github.com/Lidiavf1912/etl-project/blob/main/python/Mielectro.ipynb)
 
 ### 2.3 CSV tv brand
 
 Para poder analizar las empresas competidoras he agrupado la tabla por marcas obteniendo el precio promedio de las televisiones que aparecían en el dataset y el ratio según sus clientes. Además, he creado una columna con el número de productos de cada marca que proporcionaba el dataset.
 
-Para acceder al documento pulse [aquí]
+Para acceder al documento pulse [aquí](https://github.com/Lidiavf1912/etl-project/blob/main/python/csv%20tv%20brands%20market.ipynb)
 
 ## 3. Proceso de carga de los datos <a name="Proceso_de_carga_de_datos"/>
 
-Una vez extraída y transformada la información se ha procedido a realizar la carga de los datos y sus relaciones en MySQL, se puede consultar la carga realizada [aquí]
+Una vez extraída y transformada la información se ha procedido a realizar la carga de los datos y sus relaciones en MySQL, se puede consultar la carga realizada [aquí](https://github.com/Lidiavf1912/etl-project/blob/main/python/esquema%20mysql.ipynb)
 
 ## 4. Conclusiones y sugerencias <a name="Conclusiones_y_sugerencias)"/>
 
 Este proyecto ha sido elaborado como primera toma de contacto. En un futuro se prevee mejorar el contenido automatizando estos procesos para poder realizarlo de una forma menos pesada. Por otra parte, también se prevee analizar más empresas retailers de estos productos e incluso analizar más productos de la tienda LG Outlet. O sea, se prentendrá una expansión del proyecto tanto horizontal como verticalmente.
 
-## 5. Links y referencias <a name="Links_y_referencias"/>
+## 5. Links y referencias📂 <a name="Links_y_referencias"/>
 
 [Pandas](https://pandas.pydata.org/docs/)
 
